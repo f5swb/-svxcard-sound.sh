@@ -17,7 +17,7 @@ amixer -c 0 set 'ALC Hold Time' -M 0%
 amixer -c 0 set 'ALC Max Gain' -M 0%
 amixer -c 0 set 'ALC Min Gain' -M 0%
 amixer -c 0 set 'ALC Target' -M 0%
-amixer -c 0 set 'Left Input Boost Mixer LINPUT1' -M 0%%
+amixer -c 0 set 'Left Input Boost Mixer LINPUT1' -M 30%
 amixer -c 0 set 'Left Input Boost Mixer LINPUT2' -M 0%
 amixer -c 0 set 'Left Input Boost Mixer LINPUT3' -M 0%
 amixer -c 0 set 'Left Output Mixer Boost Bypass' -M 0%
